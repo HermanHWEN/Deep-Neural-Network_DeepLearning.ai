@@ -1,4 +1,3 @@
-
 from CoursesOne.Integration import *
 
 np.random.seed(1)
